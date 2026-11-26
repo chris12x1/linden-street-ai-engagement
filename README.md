@@ -2,6 +2,8 @@
 
 **Christopher Diaz** | AI Tech Corps Fellow, OptimaNova AI x The Knowledge House | Cohort 1 capstone (Team 1)
 
+AI Solutions Practitioner (Founding Class), OptimaNova AI: [verify credential](https://credsverse.com/credentials/52b1c251-e063-4012-b5ca-350a0dca9e5c)
+
 > **Everything here is made up.** Linden Street Community Partners is a fictional practice client. No real family, volunteer or donor data was used. No API keys or private links are in this repo. This is my own copy of a team project, and my part is named below.
 
 ## The problem
